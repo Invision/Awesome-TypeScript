@@ -16,7 +16,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 Alt V documunentation will be a new feature.
 
-For now, visit [Alt:V TypeScript REsources](https://hub.altv.mp/?q=typescript)
+For now, visit [Alt:V TypeScript Resources](https://hub.altv.mp/?q=typescript)
 
 ## Contents
 
