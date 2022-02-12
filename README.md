@@ -12,6 +12,12 @@
 
 Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 
+## Alt:V
+
+Alt V documunentation will be a new feature.
+
+For now, visit [Alt:V TypeScript REsources](https://hub.altv.mp/?q=typescript)
+
 ## Contents
 
 - [Awesome TypeScript Essential Resources](#awesome-typescript-essential-resources)
